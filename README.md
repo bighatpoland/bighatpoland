@@ -1,4 +1,4 @@
-# Konstancja Tanjga-Nawrot
+# Konstancja Tanjga
 
 **Design engineer.** I build design systems as code — tokens, component APIs,
 review gates, versioning, and the migration work that decides whether teams
